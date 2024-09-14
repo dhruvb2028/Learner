@@ -1,3 +1,4 @@
 # Learner
-My first GitHub Project.
-Great Platform for collaborating.
+My first GitHub Project. <br>
+<b>Great Platform for collaborating.</b>
+
